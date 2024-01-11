@@ -139,7 +139,7 @@
 		<PackageReference Include="WebVella.TagHelpers" Version="1.2.0" />
 		<PackageReference Include="YUICompressor.NET" Version="3.1.0" />
 		<PackageReference Include="Microsoft.Extensions.FileProviders.Embedded" Version="7.0.0" />
-		<PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.25.0" />
+		<PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.34.0" />
 	</ItemGroup>
 
 	<ItemGroup>
